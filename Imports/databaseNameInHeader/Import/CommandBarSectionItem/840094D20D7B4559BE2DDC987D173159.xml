@@ -1,0 +1,15 @@
+﻿<AML>
+ <Item type="CommandBarSectionItem" id="840094D20D7B4559BE2DDC987D173159" action="add">
+  <action>Add</action>
+  <related_id keyed_name="labs.aras.database.header" type="CommandBarItem">
+   <Item type="CommandBarButton" id="1C8BA59E0D194DE2ABA13CFB5B59D0EF" action="add">
+    <additional_data>{ "right" : "true" }</additional_data>
+    <on_init_handler keyed_name="labs_setDatabaseHeader" type="Method">BE220F6897784F94A7A37E57B15B1FE2</on_init_handler>
+    <name>labs.aras.database.header</name>
+   </Item>
+  </related_id>
+  <role keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</role>
+  <sort_order>50</sort_order>
+  <source_id keyed_name="com.aras.innovator.cui_default.mwh_header" type="CommandBarSection">D1D4C0DBAF024B52AADA2803A92B743B</source_id>
+ </Item>
+</AML>

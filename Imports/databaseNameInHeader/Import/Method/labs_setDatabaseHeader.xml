@@ -1,0 +1,13 @@
+﻿<AML>
+ <Item type="Method" id="BE220F6897784F94A7A37E57B15B1FE2" action="add">
+  <execution_allowed_to keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</execution_allowed_to>
+  <method_code><![CDATA[return {
+    "type" : "text",
+    "label" : aras.getDatabase(),
+    "cssClass" : "aras-toolbar__title",
+    "cssStyle" : "font-size: 12pt; font-weight: bold;"
+};]]></method_code>
+  <method_type>JavaScript</method_type>
+  <name>labs_setDatabaseHeader</name>
+ </Item>
+</AML>

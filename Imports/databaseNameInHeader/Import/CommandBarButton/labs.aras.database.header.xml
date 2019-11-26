@@ -1,0 +1,7 @@
+﻿<AML>
+ <Item type="CommandBarButton" id="1C8BA59E0D194DE2ABA13CFB5B59D0EF" action="add">
+  <additional_data>{ "right" : "true" }</additional_data>
+  <on_init_handler keyed_name="labs_setDatabaseHeader" type="Method">BE220F6897784F94A7A37E57B15B1FE2</on_init_handler>
+  <name>labs.aras.database.header</name>
+ </Item>
+</AML>
